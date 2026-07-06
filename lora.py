@@ -21,7 +21,7 @@ MQTT_PORT = 1883
 MQTT_USER = None           # local ChirpStack has no auth by default
 MQTT_PASS = None
 
-APPLICATION_ID = "425a6822-f63f-4d31-8ba6-37e15dc04387"  # from the Application page in ChirpStack (UUID)
+APPLICATION_ID = "925a5447-f887-4b5e-9bd2-ea9cab4ee0b0"  # from the Application page in ChirpStack (UUID)
 DEV_EUI = "a840411358619d85"                              # DevEUI in lowercase
 
 # ChirpStack v4 topic format:
