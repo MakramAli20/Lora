@@ -6,7 +6,7 @@ Requirements:
     pip install paho-mqtt --break-system-packages
 
 Flow:
-    LPS8N (Gateway) --> Local ChirpStack --> MQTT (localhost:1883) --> this script
+    LPS8N (Gasteway) --> Locsal ChirpStack --> MQTT (localhost:1883) --> this script
 """
 
 import base64
