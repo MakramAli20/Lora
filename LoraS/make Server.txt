@@ -1,0 +1,13 @@
+cd //your path
+npm init -y                          #create Server
+npm install mqtt express cors        #install laibarys
+loraServer.js                        #create server file
+node loraServer.js                   #rum your server 
+-----------------
+Dont forget to put your ip address in loraServer.js
+-----------------------------------------------
+if run true will print 
+
+MQTT Connected
+Listening: application/+/device/+/event/up
+LoRa Server running on port 4000
